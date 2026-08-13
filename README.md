@@ -2,6 +2,10 @@
 
 A complete industrial automation project built and simulated using CODESYS V3.5. It covers the full process: electrical design, PLC control logic, and HMI interface for an automated dosing and mixing line.
 
+## Academic Acknowledgment
+
+This project was developed based on the course guidelines and instructions provided by **Eng. Mouhammad Hamsho** and **Eng. Kemalaldin Hamso** (From Wire to PLC Bootcamp). All control logic, schematics, and simulation implementation were executed as part of this coursework.
+
 ## What's Included
 
 - Electrical Schematics: Power distribution (3-Phase), DOL motor starters, VFD wiring, and PLC I/O connections.
